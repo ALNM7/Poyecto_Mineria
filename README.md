@@ -6,6 +6,8 @@ Este proyecto implementa modelos de clasificación emocional en textos en españ
 
 También se utilizaron tecnicas como fine tunning para generar embeddings mas precisos y ricos para la clasificación de texto emocional, al final obtuvimos una precisión del 95% en acurracy y f1 al evaluarse en el 20% del dataset.
 
+Visualiza la documentación del proyecto aqui: https://correobuap-my.sharepoint.com/:w:/g/personal/aaron_torresc_alumno_buap_mx/ETwy2-DhSg9KrYnSKG5O6ZwBzITADHh6yzenRrW8OERrOg?e=dGz2Lu
+
 ## Estructura del Repositorio
 
 Proyecto_Mineria
