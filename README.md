@@ -4,6 +4,8 @@
 
 Este proyecto implementa modelos de clasificación emocional en textos en español, utilizando RoBERTuito y técnicas modernas de NLP con `transformers`, `spaCy`, y `sentence-transformers`.
 
+También se utilizaron tecnicas como fine tunning para generar embeddings mas precisos y ricos para la clasificación de texto emocional, al final obtuvimos una precisión del 95% en acurracy y f1 al evaluarse en el 20% del dataset.
+
 ## Estructura del Repositorio
 
 Proyecto_Mineria
